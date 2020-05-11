@@ -20,3 +20,10 @@
 * Fazer teste com uma rede treinada (VGG16)
 * Utilizar a mesma topologia de rede neural usada para o problema minist, aplicando para o problema das abelhas
 * Compare o tempo de treino da rede neural CNN usando CPUxGPU
+
+## Exercício 4:
+* Utilize o script Py-Torch-Basico.ipynb na rede neural CNN para utilizar outro dataset do Pytorch (Por Exemplo Fashion Mnist)
+* Altere os dados de entrada da rede neural mlp desse script para fazer predição nos dados da Veltec
+* Execute a rede neural CNN com as imagens de gatos e cachorros
+  * Altere o dataloader de entrada
+  * Altere o tamanho da saída da última camada de 1 para 10
